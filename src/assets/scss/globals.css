@@ -1,0 +1,11 @@
+body,
+html {
+  min-height: 100vh;
+  margin: 0;
+  font-family: Google Sans, Roboto, Helvetica Neue, sans-serif;
+  font-size: rem(16px);
+  font-weight: 400;
+  color: #202124;
+}
+
+/*# sourceMappingURL=globals.css.map */
